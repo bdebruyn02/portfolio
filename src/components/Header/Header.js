@@ -3,14 +3,14 @@ import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () =>  (
 <Container>
     <Div1>
       <Link href="/">
-        <a style={{display: "flex", alignItems: "center", color:"white"}}>
-          <DiCssdeck size="3rem" /> <span>Portfolio</span>
+        <a style={{display: "flex", alignItems: "center", color: "white", marginBottom: "20px"}}>
+          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>
@@ -36,18 +36,17 @@ const Header = () =>  (
     </Div2>
 
     <Div3>
-    //github
       <SocialIcons href="https://github.com/LordTiger">
         <AiFillGithub size="3rem" />
       </SocialIcons>
 
-    // linkedin
+    
       <SocialIcons href="https://www.linkedin.com/in/bdebruyn/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-    //Instagram 
+    
       <SocialIcons href="https://www.instagram.com/woahh.b_/">
-        <AiFillGithub size="3rem" />
+        <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
 </Container>
