@@ -1,53 +1,44 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'OriginX FiveM RP',
+    description: "Using Lua, Node.js, C# and MySQL/MariaDB. I had to develop and maintain the Best Role-Playing Server in South Africa.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['MariaDB/MySQL', 'Lua', 'C#', 'Node', 'JavaScript'],
+    source: 'https://www.trackyserver.com/server/originx-rp-597246',
+    visit: 'https://www.youtube.com/watch?v=y4Xiz97AxDg',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'OriginX RP C# Launcher',
+    description:"Using C# and XML. I developed a game launcher to load into the game faster and also delete FiveM game cache.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['C#', 'XML'],
+    source: 'https://github.com/LordTiger/OriginX_Launcher_Source',
+    visit: 'https://github.com/LordTiger/OriginXRP_Launcher',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'FiveM Scripts',
+    description: "Using Lua i made a wide selection of fiveM scripts from an FBI job to a whole new way to reload your gun in Grand theft Auto",
       image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Lua'],
+    source: 'https://github.com/LordTiger/FiveM-Scripts',
+    visit: 'https://youtu.be/xiXfHMfQsR0',
     id: 2,
-  },
-  {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Worked as a Student Technicial at de Bruyns Splicing', },
+  { year: 2019, text: 'Finished High-School at 17', },
+  { year: 2020, text: 'Started College at CTU Training Solutions', },
+  { year: 2020, text: 'Began developing and maintaining a FiveM Server. ', },
+  { year: 2021, text: 'Finished College at CTU Training Solutions', },
+  { year: 2021, text: 'Took a break from FiveM Development (Lua, MySQL/MariaDB, Web/UX Development)', },
 ];
 
 export const acomplishments = [
-  { number: 20, text: 'Open Source Projects'},
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
+  { number: 27, text: 'Github Repositories'},
+  { number: 4, text: 'Github Followers', },
+  { number: 2, text: 'Github Stars', }
 ];

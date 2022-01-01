@@ -13,7 +13,7 @@ const Hero = () => (
     </SectionTitle>
 
     <SectionText>
-    I'm a South-African based Software Developer, 
+    I'm a South-African based Software Developer, Fun fact: I'm a hardworking individual
     </SectionText>
 
     <Button onClick ={() => window.location = 'https://google.com'}> Learn More</Button>
