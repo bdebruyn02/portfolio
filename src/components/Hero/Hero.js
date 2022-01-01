@@ -16,7 +16,7 @@ const Hero = () => (
     I'm a South-African based Software Developer, Fun fact: I'm a hardworking individual
     </SectionText>
 
-    <Button onClick ={() => window.location = 'https://google.com'}> Learn More</Button>
+    <Button onClick ={() => window.location = '#about'}> Learn More</Button>
   </LeftSection>
 </Section>
 );
