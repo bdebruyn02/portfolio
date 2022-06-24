@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name":"Brandon de Bruyn",
+    "description":"I am a full stack developer and I use technologies like Angular, Ionic to develop innovating Micro Front-ends. Also creating Micro api services in asp.net MVC C#",
+    "image":"profilepic.jpg",
+    "bio":"Full Stack Developer, Bringing forth a motivated attitude and a variety of powerful skills. Committed to utilizing my skills to further the mission of a company. Always learning new technologies to improve my knowledge.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "b.debruyn02@gmail.com",
+    "phone": "(073) 494-2610",
+    "github":"https://github.com/LordTiger",
+    "project":"https://github.com/LordTiger/td-fivem-launcher",
+    "address":{
+      "street":"Fichardt Park",
+      "city":"Bloemfontein",
+      "state":"Free State",
+      "zip": "9317"
+    },
+    "website": "http://bdebruyn.xyz/",
+    "resumedownload":"https://drive.google.com/file/d/1ivT9rXfcjPebL6HAlUwQv1k0iCfkuaff/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Brandon.De.Bruyn15",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/LordTiger_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bdebruyn/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/woahh.b_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/LordTiger",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"CTU Training Solutions",
+        "degree":"FET Certificate",
+        "graduated":"Dec 2020",
+        "description":"Further Education and Training Certificate: Information Technology: Systems Development"
+      },
+      {
+        "school":"CTU Training Solutions",
+        "degree":"National Certificate,",
+        "graduated":"Nov 2021",
+        "description":"Information Technology (Systems Development)"
+      },
+      {
+        "school":"Hoërskool Fichardtpark",
+        "degree":"NSC (National Senior Certificate)",
+        "graduated":"Dec 2019",
+        "description":"High-School"
+      }
+    ],
+    "work":[
+      {
+        "company":"OriginX RP",
+        "title":"Lead Developer",
+        "years":"Aug 2020 — Apr 2021",
+        "description": "My Role was to setup, maintain and develop LUA scripts for a GTAV RP (Grand Theft Auto V Role-Play) called OriginX RP. I Worked well independently and on a team to solve problems. But mainly i worked independently. I independently had to configure the Rack Server for the server so People across South Africa could join the Game Server. I also had to setup a Team Speak server on Debian via ssh. I independently optimized the server to run a smooth 100+ FPS (Frames per second) with more than 100+ Players on at once."
+      },
+      {
+        "company":"INNOCRON (PTY) LTD t/a de Bruyn's Splicing",
+        "title":"Student Technician",
+        "years":"Jan 2017 — Jan 2020",
+        "description":"installation of CAT 5 & 6 and Fibre Cables. Also installed Network Cameras, Electronic Scoreboards and Operated the Scoreboard for the Toyota Stadium in Free State Bloemfontein"
+      },
+      {
+        "company":"MicroZone Solutions",
+        "title":"Internship",
+        "years":"Feb 2022 — March 2022",
+        "description":"Developing innovating software like Micro Front-Ends in Angular and Ionic. Also creating Micro API Services in ASP.net MVC C#."
+      },
+      {
+        "company":"MicroZone Solutions",
+        "title":"Junior Full Stack Developer",
+        "years":"March 2022 - Present",
+        "description":"Developing innovating software like Micro Front-Ends in Angular and Ionic. Also creating Micro API Services in ASP.net MVC C#."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Typescript",
+        "level":"65%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"65%"
+      },
+      {
+        "name":"SQL",
+        "level":"65%"
+      },
+      {
+        "name":"SCSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Angular + Electron FiveM Launcher",
+        "category":"FiveM",
+        "image":"TDLauncher.png",
+        "url":"https://github.com/LordTiger/td-fivem-launcher"
+      },
+      {
+        "title":"Online Chatting App made with React and FireBase",
+        "category":"Chatting",
+        "image":"01.jpg",
+        "url":"https://github.com/LordTiger/react-chatapp"
+      },
+      {
+        "title":"Bundle of FiveM Scripts coded in LUA",
+        "category":"FiveM",
+        "image":"02.jpg",
+        "url":"https://github.com/LordTiger/FiveM-Scripts"
+      },
+      {
+        "title":"FiveM Server coded in SQL and LUA",
+        "category":"FiveM",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=y4Xiz97AxDg"
+      }
+    ]
+  }
+}
