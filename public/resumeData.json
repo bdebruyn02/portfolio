@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Brandon de Bruyn",
-    "description":"I am a full stack developer and I use technologies like Angular, Ionic to develop innovating Micro Front-ends. Also creating Micro api services in asp.net MVC C#",
+    "description":"I am a full stack developer and I use technologies like Angular, Ionic to develop innovating Micro Front-ends. Also creating Micro api services in asp.net C# and MS SQL",
     "image":"profilepic.jpg",
-    "bio":"Full Stack Developer, Bringing forth a motivated attitude and a variety of powerful skills. Committed to utilizing my skills to further the mission of a company. Always learning new technologies to improve my knowledge.",
+    "bio":"Full Stack Developer, Bringing forth a motivated attitude and a variety of powerful skills. Committed to utilizing my skills to further the mission of a company. I'm also proficient in an assortment of technologies, including ASP.NET, C#, Typescript, Angular, SCSS, IONIC, and Microsoft SQL Server. Always learning new technologies to improve my knowledge.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "b.debruyn02@gmail.com",
     "phone": "(073) 494-2610",
